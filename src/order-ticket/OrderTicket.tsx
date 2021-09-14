@@ -81,12 +81,14 @@ export const OrderTicket: React.FC = () => {
           onChange={handlePriceChange}
         />
       </label>
-      <button className="Buy" data-testid="buy-button" onClick={buy}>
-        BUY
-      </button>
-      <button className="Sell" data-testid="sell-button" onClick={sell}>
-        SELL
-      </button>
+      <div className="OrderTicketControls">
+        <button className="Buy" data-testid="buy-button" onClick={buy}>
+          BUY
+        </button>
+        <button className="Sell" data-testid="sell-button" onClick={sell}>
+          SELL
+        </button>
+      </div>
     </div>
   );
 };

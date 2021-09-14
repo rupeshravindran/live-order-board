@@ -1,0 +1,14 @@
+.OrderListTitle {
+    font-size: 18px;
+}
+
+.OrderList {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.OrderList div {
+    padding-left: 10px;
+    padding-bottom: 2px;
+}

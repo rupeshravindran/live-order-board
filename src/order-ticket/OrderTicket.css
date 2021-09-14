@@ -1,0 +1,25 @@
+.OrderTicketTitle {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.OrderTicket {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+}
+
+.OrderTicket label {
+  padding-left: 10px; 
+}
+
+.OrderTicket button {
+    margin-left: 10px;
+}
+
+.Buy {
+    background-color: #70e970;
+}
+
+.Sell {
+    background-color: #f17575;
+}

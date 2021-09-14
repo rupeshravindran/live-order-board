@@ -1,0 +1,13 @@
+.OrderSummaryTitle {
+    font-size: 18px;
+}
+
+.OrderSummary {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+}
+
+.OrderSummary div {
+    padding-left: 10px;
+    padding-bottom: 4px;
+}
